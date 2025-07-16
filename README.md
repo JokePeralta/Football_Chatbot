@@ -48,7 +48,7 @@ football-player-chatbot/
 ├── requirements.txt
 ├── README.md
 ├── static/
-│   └── stadium.jpg      # Background image for the chatbot UI
+│   └── stadium.jpg 
 
 ### 👨‍💻 Authors
 Shreyas
