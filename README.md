@@ -19,5 +19,13 @@ A Flask-based web chatbot that fetches real-time football player data from Wikip
 
 ### 1. Clone the repository
 
-```bash
+bash
 git clone https://github.com/JokePeralta/football_chatbot.git
+
+### 2. Install dependencies
+
+pip install -r requirements.txt
+
+### 3. Run the application
+   
+python mainproject.py
