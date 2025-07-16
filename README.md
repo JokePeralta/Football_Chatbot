@@ -39,6 +39,17 @@ BeautifulSoup4
 
 HTML / CSS / JavaScript
 
+
+### 🖼️ Project Structure
+
+football-player-chatbot/
+│
+├── mainproject.py
+├── requirements.txt
+├── README.md
+├── static/
+│   └── stadium.jpg      # Background image for the chatbot UI
+
 ### 👨‍💻 Authors
 Shreyas
 
