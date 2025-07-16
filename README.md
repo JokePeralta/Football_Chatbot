@@ -29,3 +29,18 @@ pip install -r requirements.txt
 ### 3. Run the application
    
 python mainproject.py
+
+### 🛠️ Built With
+Flask
+
+Requests
+
+BeautifulSoup4
+
+HTML / CSS / JavaScript
+
+### 👨‍💻 Authors
+Shreyas
+
+### 📄 License
+This project is licensed under the MIT License
